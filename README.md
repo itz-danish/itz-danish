@@ -17,6 +17,6 @@
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/mohammad-danish-76570a24a/)  
 - [LeetCode](https://leetcode.com/u/itz_danish_/)  
-- [Instagram](https://www.instagram.com/_itz_danish_/)
+- [Instagram](https://www.instagram.com/danish_skymer/)
 
 Feel free to explore my repositories and connect for collaboration or feedback! 🚀  
