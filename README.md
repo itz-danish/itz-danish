@@ -19,14 +19,17 @@
 🛡️ Cybersecurity
 
 - SIEM: Wazuh
-- Network Analysis: Burp Suite, Wireshark (learning)
-- Malware Analysis: Static & Dynamic (Android)
-- Log Analysis & Threat Detection
+- Network Analysis: Wireshark, Burp Suite
+- Threat Detection & Log Analysis
+- Network Monitoring & Traffic Analysis
+- Android APK Static & Dynamic Analysis
+- Malware Analysis Fundamentals
+- MITRE ATT&CK Framework & Attack Mapping
+- Incident Response Fundamentals
 
 💻 Programming
 
 - Python (Advanced)
-
 
 📚 Core Knowledge
 
@@ -43,51 +46,40 @@
 
 - Simulated attacker (Kali Linux) vs victim (Windows)
 - Configured Wazuh SIEM for log monitoring and alerting
-- Detected suspicious activities and analyzed alerts
+- Investigated security events and analyzed alerts
+- Mapped observed techniques to the MITRE ATT&CK framework
 
 🦠 Android Malware Analysis
 
-- Reverse engineered APKs using static & dynamic analysis
-- Monitored network traffic via Burp Suite
-- Investigated behavior patterns of malicious apps
+- Performed static and dynamic APK analysis
+- Monitored application traffic using Burp Suite and Wireshark
+- Investigated suspicious behaviors, permissions, and network communications
+- Identified potential MITRE ATT&CK tactics and techniques
 
 🌐 Network Traffic Analysis
 
-- Intercepted and analyzed HTTP/HTTPS traffic
-- Identified suspicious communication patterns
+- Captured and analyzed HTTP/HTTPS traffic
+- Investigated suspicious network behavior
+- Performed packet analysis and protocol inspection using Wireshark
 
 ---
 
 🧭 Areas of Focus
 
 - Threat Detection & Alert Analysis
-- Incident Response Basics
+- Incident Response
 - SOC Operations Workflow
-- MITRE ATT&CK Mapping (learning)
+- MITRE ATT&CK Mapping
+- Network Monitoring & Traffic Analysis
+- Malware & APK Analysis
 - OSINT & Reconnaissance
 
 ---
 
 📈 Currently Improving
 
-- 🔬 Advanced Threat Detection Techniques
-- 📊 Log Correlation & SIEM Rule Creation
-- 🧪 Real-world attack simulation scenarios
-
----
-
-📫 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/mohammad-danish-76570a24a/
-- 💻 LeetCode: https://leetcode.com/u/itz_danish_/
-- 📸 Instagram: https://www.instagram.com/danish_skymer/
-
----
-
-⚡ Mindset
-
-«Detect → Analyze → Respond → Improve»
-
----
-
-⭐️ Open to internships, SOC roles, and cybersecurity collaborations.
+- Advanced Threat Detection Techniques
+- MITRE ATT&CK-Based Detection Engineering
+- Log Correlation & SIEM Rule Creation
+- Threat Hunting Fundamentals
+- Real-world Attack Simulation Scenarioss, SOC roles, and cybersecurity collaborations.
